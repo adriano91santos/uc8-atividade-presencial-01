@@ -25,7 +25,7 @@ if (podeCadastrar){
     console.log("Houve problemas para cadastrar a peça")
 }
 
-console.log("Listando as pecas cadastradas: ")
+console.log("Listando as peças cadastradas: ")
 for (let i=0; i<listaPecas.length; i++){
     console.log(listaPecas[i])
 }
