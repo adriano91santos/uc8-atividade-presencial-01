@@ -1,4 +1,4 @@
-var nomePeca = "Pe"
+var nomePeca = "Peca Teste"
 var pesoPeca = 300
 var podeCadastrar = true
 var listaPecas = []
